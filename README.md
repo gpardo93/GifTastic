@@ -16,4 +16,6 @@ A small input field should allow a user to submit a topic which will generate a 
 
 * Bootstrap for Page Layout
 
-* Google Fonts
+
+
+https://gpardo93.github.io/GifTastic/
