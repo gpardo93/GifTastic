@@ -8,8 +8,12 @@ A small input field should allow a user to submit a topic which will generate a 
 
 **Technologies Used**
 
--AJAX for API GET requests
--GIPHY API
--Jquery for Dom Manipulation
--Bootstrap for Page Layout
--Google Fonts
+* AJAX for API GET requests
+
+* GIPHY API
+
+* Jquery for Dom Manipulation
+
+* Bootstrap for Page Layout
+
+* Google Fonts
